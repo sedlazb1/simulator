@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-05-22T02:01:03</date>
+  <millis>1432252863468</millis>
+  <sequence>1</sequence>
+  <logger>cz.zbysulak.semesterproject.gui.Launcher</logger>
+  <level>FINE</level>
+  <class>cz.zbysulak.semesterproject.gui.Launcher</class>
+  <method>initServer</method>
+  <thread>15</thread>
+  <message>Server was switched on</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-05-22T02:37:21</date>
+  <millis>1432255041879</millis>
+  <sequence>0</sequence>
+  <logger>cz.zbysulak.semesterproject.simulation.World</logger>
+  <level>FINE</level>
+  <class>cz.zbysulak.semesterproject.simulation.World</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>field has been generated :
+.........................</message>
+</record>
+<record>
+  <date>2015-05-22T02:37:22</date>
+  <millis>1432255042003</millis>
+  <sequence>1</sequence>
+  <logger>cz.zbysulak.semesterproject.simulation.World</logger>
+  <level>FINE</level>
+  <class>cz.zbysulak.semesterproject.simulation.World</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>field has been generated :
+.........................</message>
+</record>
+<record>
+  <date>2015-05-22T02:37:22</date>
+  <millis>1432255042043</millis>
+  <sequence>2</sequence>
+  <logger>cz.zbysulak.semesterproject.simulation.World</logger>
+  <level>FINE</level>
+  <class>cz.zbysulak.semesterproject.simulation.World</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>field has been generated :
+.........................</message>
+</record>
+<record>
+  <date>2015-05-22T02:37:22</date>
+  <millis>1432255042133</millis>
+  <sequence>3</sequence>
+  <logger>cz.zbysulak.semesterproject.simulation.World</logger>
+  <level>FINE</level>
+  <class>cz.zbysulak.semesterproject.simulation.World</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>field has been generated :
+.........................</message>
+</record>
+<record>
+  <date>2015-05-22T02:37:22</date>
+  <millis>1432255042173</millis>
+  <sequence>4</sequence>
+  <logger>cz.zbysulak.semesterproject.simulation.World</logger>
+  <level>FINE</level>
+  <class>cz.zbysulak.semesterproject.simulation.World</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>field has been generated :
+.........................</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-05-22T02:49:43</date>
+  <millis>1432255783903</millis>
+  <sequence>1</sequence>
+  <logger>cz.zbysulak.semesterproject.gui.Launcher</logger>
+  <level>FINE</level>
+  <class>cz.zbysulak.semesterproject.gui.Launcher</class>
+  <method>initServer</method>
+  <thread>15</thread>
+  <message>Server was switched on</message>
+</record>
+<record>
+  <date>2015-05-22T02:49:53</date>
+  <millis>1432255793641</millis>
+  <sequence>2</sequence>
+  <logger>cz.zbysulak.semesterproject.gui.Launcher</logger>
+  <level>FINE</level>
+  <class>cz.zbysulak.semesterproject.gui.Launcher$7</class>
+  <method>actionPerformed</method>
+  <thread>15</thread>
+  <message>Send this to clients:init,10,10,10,20,5,21,7</message>
+</record>
